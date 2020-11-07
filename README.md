@@ -1,2 +1,0 @@
-# Miners
-almost done
